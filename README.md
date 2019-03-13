@@ -8,10 +8,14 @@ A simple todolist example with nodejs + vuejs + mongodb
 
 # start up front-end
 cd todoView
+
 cnpm install
+
 cnpm run dev
 
 # start up back-end
+
 cd todoList
+
 node server.js
 
