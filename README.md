@@ -7,15 +7,17 @@ A simple todolist example with nodejs + vuejs + mongodb
 # running the project
 
 # start up front-end
-cd todoView
+`cd todoView`
 
-cnpm install
+`cnpm install`
 
-cnpm run dev
+`cnpm run dev`
 
 # start up back-end
 
-cd todoList
+`cd todoList`
 
-node server.js
+`cnpm install`
+
+`node server.js`
 
